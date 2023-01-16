@@ -1,0 +1,17 @@
+Computer Science                        -- Is everything computable?
+
+    Artificial Intelligence             -- Is intelligence computable?
+
+        Natural Language Processing     -- Is human language computable?
+
+            - language modelling: produce text that looks human like chatGPT
+
+            - summarization: summarize an article of text in 2 words
+
+            - sentiment analysis: is the writer of the article happy or angry?
+
+            - ranking: produce the most relevant results matching a query like search engines or recommendation engines
+
+                - unsupervised recommendation: produce results matching a query without using personal data
+
+                    - unsupervised recommendation of academic research articles from arxiv.org 
